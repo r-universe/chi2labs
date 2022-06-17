@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cognitoR",
+    "oncran": true
+  },
+  {
+    "package": "moodleR",
+    "oncran": true
+  }
+]
