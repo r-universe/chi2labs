@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cognitoR"]
-	path = cognitoR
-	url = https://github.com/chi2labs/cognitor
 [submodule "moodleR"]
 	path = moodleR
 	url = https://github.com/chi2labs/moodler
